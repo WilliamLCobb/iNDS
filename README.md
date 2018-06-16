@@ -1,6 +1,6 @@
 iNDS
 =======
-###### iNDS has moved to [iNDS-Team](https://github.com/iNDS-Team/iNDS) Please direct all issues and suggestions there.
+## iNDS has moved to [iNDS-Team](https://github.com/iNDS-Team/iNDS) Please direct all issues and suggestions there.
 
 iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. 
 
